@@ -1,4 +1,4 @@
-# CloneEtabs
+# CloneEtabs (C++ Project)
 CloneEtabs for Analysis, Design, Pre- &amp; Post- Processing 
 
 Analysis  - FEA; Tall Building, Seismic, Wind, Elasto-plastic analysis, non-linear
