@@ -1,7 +1,9 @@
 # CloneEtabs
 CloneEtabs for Analysis, Design, Pre- &amp; Post- Processing 
 
-Analysis  - FEA
+Analysis  - FEA; Tall Building, Seismic, Wind, Elasto-plastic analysis, non-linear
+
+Materials - Concrete, Steel, Self-defined
 
 Design  -HKC  
 
